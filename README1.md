@@ -1,4 +1,4 @@
-<img width="460" height="320" alt="image" src="https://github.com/user-attachments/assets/8f2ff42b-a8e4-4a89-90aa-5346bc14d936" /># 🛃 Customer Spending and EDA
+# 🛃 Customer Spending and EDA
 
 ## 📌 Solution
 
